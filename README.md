@@ -1,8 +1,7 @@
-<!-- Profile Header with Banner in Cursive -->
+<!-- Profile Header with Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=add8e6&height=200&section=header&text=%20Arun%20Gautam&fontSize=40&fontColor=000000&fontAlign=40&fontAlignY=35&font=Pacifico" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=add8e6&height=200&section=header&text=%20Arun%20Gautam&fontSize=40&fontColor=000000" />
 </p>
-
 
 <!-- Name Heading with pseudo-hover-like glowing animation via SVG -->
 <!-- Name Heading with light teal text -->
