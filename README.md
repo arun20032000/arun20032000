@@ -1,29 +1,54 @@
-# arun20032000
-Arun Gautam | Python Full Stack Developer | AI/ML &amp; Automation Enthusiast
+<!-- Profile Header with Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0a192f&height=200&section=header&text=Arun%20Gautam&fontSize=40&fontColor=ffffff" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Arun Gautam</h1>
 <h3 align="center">Python Full Stack Developer | AI/ML Enthusiast | Automation & Web Developer</h3>
 
-- 🔭 I’m currently working at **ConsultIT Technologies Pvt Ltd** as a Python Full Stack Developer  
-- 🌱 I’m passionate about **AI/ML, Automation, and Real-time Web Apps**  
-- 👨‍💻 All of my projects are available at [My GitHub](https://github.com/arun20032000)  
-- 📫 How to reach me: **gautamarun096@gmail.com**  
-- 📝 Checkout my LinkedIn: [Arun Gautam](https://www.linkedin.com/in/arun-gautam-87205218b/)  
-- 🚀 Available for hire and open to exciting Python/AI opportunities!
+---
+
+### 📌 Quick Intro
+
+- 🔭 Currently working at **ConsultIT Technologies Pvt Ltd**
+- 🚀 Passionate about **AI/ML, Automation, and Real-time Web Apps**
+- 💼 Open for exciting opportunities in **Python / AI / Automation**
+- 🌐 Portfolio: [GitHub](https://github.com/arun20032000)
+- 📫 Email: **gautamarun096@gmail.com**
+- 🔗 LinkedIn: [Arun Gautam](https://www.linkedin.com/in/arun-gautam-87205218b/)
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### ⚙️ Tech Stack & Tools
 
-- **Languages**: Python, SQL, Java, JavaScript, HTML, CSS  
-- **Frameworks**: Django, Flask, FastAPI, React.js  
-- **AI/ML**: TensorFlow, PyTorch, Keras, Scikit-Learn, OpenCV, NLTK, SpaCy  
-- **Tools**: Selenium, Pandas, NumPy, Matplotlib, Seaborn, Tkinter, AutoML (TPOT, Auto-sklearn)  
-- **Database**: MySQL  
-- **Platforms**: VS Code, PyCharm, Jupyter Notebook, IntelliJ IDEA
+**Languages:**  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Frameworks:**  
+![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+**AI/ML:**  
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+**Tools & Libraries:**  
+![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Tkinter](https://img.shields.io/badge/-Tkinter-FFA500?style=for-the-badge)
 
 ---
 
-### 📌 Featured Projects
+### 📂 Featured Projects
+
+<details>
+<summary>Click to expand</summary>
 
 - 🔁 **Automated Email Report Scheduler** — Python, Selenium, Tkinter GUI  
 - 😷 **Custom Face Detection (YOLOv11)** — Trained on custom dataset  
@@ -32,7 +57,9 @@ Arun Gautam | Python Full Stack Developer | AI/ML &amp; Automation Enthusiast
 - 🔍 **License Plate Detection System** — Real-time object detection  
 - 🧑‍💼 **HR Management System** — Django, MySQL backend  
 - 🏨 **Hotel Bill Management** — Automated invoicing and tracking  
-- 🖱 **Virtual Mouse** — Gesture-based mouse simulation for accessibility
+- 🖱 **Virtual Mouse** — Gesture-based mouse simulation for accessibility  
+
+</details>
 
 ---
 
@@ -46,23 +73,37 @@ Arun Gautam | Python Full Stack Developer | AI/ML &amp; Automation Enthusiast
 ---
 
 ### 📍 Location
-📌 Greater Noida, India
+
+📌 **Greater Noida, India**  
+🏢 Comfortable working **from office (Noida)**
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arun20032000&show_icons=true&theme=react" alt="Arun's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=arun20032000&show_icons=true&theme=react" alt="GitHub Stats" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arun20032000&layout=compact&theme=react" />
 </p>
 
 ---
 
-### 💬 Let's Connect!
+### 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=arun20032000&bg_color=0d1117&color=00ffcc&line=00ffcc&point=ffffff&area=true&hide_border=true" />
+</p>
+
+---
+
+### 💬 Let's Connect
 
 <p align="center">
   <a href="mailto:gautamarun096@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/arun-gautam-87205218b/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=arun20032000" alt="Visitor Badge" />
 </p>
