@@ -3,11 +3,15 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=add8e6&height=200&section=header&text=%20Arun%20Gautam&fontSize=40&fontColor=000000" />
 </p>
 
-<h1 align="center">Hi 👋, I'm <span style="color: #000000;"><b><i>Arun Gautam</i></b></span></h1>
+<!-- Name Heading with pseudo-hover-like glowing animation via SVG -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=000000&center=true&vCenter=true&repeat=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Arun+Gautam" alt="Hello I am Arun Gautam typing animation" />
+</p>
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=000000&center=true&vCenter=true&width=1000&lines=Python+Full+Stack+Developer+%7C+AI%2FML+Enthusiast+%7C+Automation+%26+Web+Developer" alt="Typing SVG" />
-</h3>
+<!-- Role / Tagline Animated -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=000000&center=true&vCenter=true&width=1000&lines=Python+Full+Stack+Developer+%7C+AI%2FML+Enthusiast+%7C+Automation+%26+Web+Developer" alt="Typing SVG role" />
+</p>
 
 
 ---
