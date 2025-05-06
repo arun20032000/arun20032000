@@ -4,14 +4,16 @@
 </p>
 
 <!-- Name Heading with pseudo-hover-like glowing animation via SVG -->
+<!-- Name Heading with light teal text -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=000000&center=true&vCenter=true&repeat=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Arun+Gautam" alt="Hello I am Arun Gautam typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=20B2AA&center=true&vCenter=true&repeat=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Arun+Gautam" alt="Hello I am Arun Gautam typing animation" />
 </p>
 
-<!-- Role / Tagline Animated -->
+<!-- Role / Tagline Animated in light teal -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=000000&center=true&vCenter=true&width=1000&lines=Python+Full+Stack+Developer+%7C+AI%2FML+Enthusiast+%7C+Automation+%26+Web+Developer" alt="Typing SVG role" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=20B2AA&center=true&vCenter=true&width=1000&lines=Python+Full+Stack+Developer+%7C+AI%2FML+Enthusiast+%7C+Automation+%26+Web+Developer" alt="Typing SVG role" />
 </p>
+
 
 
 ---
