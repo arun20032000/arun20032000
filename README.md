@@ -117,6 +117,9 @@
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=arun20032000" alt="Visitor Badge" />
 </p>
+# My GitHub Profile
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=20B2AA&center=true&vCenter=true&width=1000&lines=Thanks+for+visiting+my+profile!+🙏" alt="Typing for a visiting my profile" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=20B2AA&center=true&vCenter=true&width=1000&lines=Thanks+for+visiting+my+profile+%21+🙏" alt="Thanks for a visiting my profile" />
 </p>
+
